@@ -28,8 +28,8 @@
     - In computer science, a trie, also called digital tree or prefix tree, is a type of k-ary search tree, a tree data structure used for locating specific keys from within a set.
 ### GUI:
 - The graphic UI is implemented using PyQt5
-  <div align="center"><img src="https://github.com/amirkasaei/Student-Management-System/blob/main/img/ui.png?raw=true" width="40%" /></div>
+  
+  <div align="center"><img src="https://github.com/amirkasaei/Student-Management-System/blob/main/img/ui.png?raw=true" width="30%" /></div>
 
 ## Contributors
 - Amir Kasaei
-- Amir Ezzati
