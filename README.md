@@ -3,7 +3,7 @@
 
 ## Purpose
 - In this project, we will create a program to save students' information using **hashing** techniques and and **trie tree**.
-- This project was done for the Data Structure Course at **University of Guilan** in 2021 May 
+- This project was done for the Data Structure Course at **University of Guilan** in May 2021
 
 ## Description
 ### The program has the following processes:
